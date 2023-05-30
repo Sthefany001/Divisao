@@ -1,0 +1,15 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\bin\Debug\net6.0\Teste.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\bin\Debug\net6.0\Teste.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\refint\Teste.dll
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Teste\Teste\obj\Debug\net6.0\ref\Teste.dll
