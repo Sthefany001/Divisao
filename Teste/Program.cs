@@ -13,7 +13,7 @@ catch(DivideByZeroException ex)
 {
     Console.WriteLine($"\nNão é permitido divisão por zero! {ex.Message}");
 }
-catch(InvalidCastException ex)
+catch(FormatException ex)
 {
     Console.WriteLine($"\nConversão de string para letra não é permitida! {ex.Message}");
 }
