@@ -11,7 +11,7 @@
 }
 catch(Exception ex)
 {
-    Console.WriteLine("Erro!");
+    Console.WriteLine($"\nErro! {ex.Message}");
 }
 finally
 {
